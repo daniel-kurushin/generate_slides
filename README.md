@@ -15,3 +15,5 @@ It can be used to quiclly generate pdf from screenshots (or other images) placed
     │   ├── N. Subsection N name
 
 It's useful whe one have to prepare lection, based on data, existing in the web or document.
+
+Script is not portable and depends on local filenames and URL's. It's useless to create a really univeral tool, better to edit it according to one's needs.
